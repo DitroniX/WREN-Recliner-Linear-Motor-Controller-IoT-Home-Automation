@@ -81,7 +81,7 @@ When integrated with Home Automation with Voice Control, this could be used to c
 
 ## Power
 
-Power is taken from the [existing 5 Pin DIN connector](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki/Electric-Chair-Connector).  This typically is 24V DC.
+Power is taken from the [existing 5 Pin DIN connector](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki/Electric-Recliner-Chair-Connector).  This typically is 24V DC.
 
 **WREN** could be used on systems from 9V to 48V DC.
 
