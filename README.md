@@ -3,7 +3,7 @@
 
 [![DitroniX WiKi Pages](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki)
 
-[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller?tab=readme-ov-file#updates)
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/README.md#updates)
 
 ## Welcome to WREN
 
