@@ -7,7 +7,7 @@
 
 ## Welcome to WREN
 
-**WREN**, is a compact, Linear Motor Controller which can be easily integrated into IoT Home or Industrial Automation systems, via 2.4 GHz, or 5 GHz Wi-Fi.
+**WREN**, is a compact, Linear Motor Controller Board which can be easily integrated into IoT Home or Industrial Automation systems, via 2.4 GHz, or 5 GHz Wi-Fi.
 
 The design is in operation around the World and is straight forward to install.
 
@@ -25,7 +25,7 @@ Example Linear Motor Kit can be [found here](https://github.com/DitroniX/WREN-Re
 
 ## Top Level Features
 
-The **WREN** board:
+The **WREN** SDK board:
 
  - Is designed to easily, and safely, retrofit (plug and play), to industry standard Electric Reclining Chairs.
  - Allows continued use of any existing push buttons, or remote hand controller, through isolated input and outputs.
