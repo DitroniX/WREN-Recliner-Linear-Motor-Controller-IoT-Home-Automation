@@ -15,6 +15,8 @@ Home or Industrial Automation, IOT control, could be local, or cloud based, to s
 
 The on-board ESP32-C5 enables use of Standard Arduino Code, Platform IO, ESPHome etc.
 
+![WREN Overview](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/WREN%20-%20Overview.png)
+
 ### What does WREN Control?
 
 **WREN** controls Linear Motors, which are typically used to raise/lower, Electric Recliners and Beds, or open/close Window Vents on Greenhouses.
