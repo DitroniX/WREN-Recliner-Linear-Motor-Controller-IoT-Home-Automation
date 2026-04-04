@@ -32,6 +32,8 @@ The **WREN** board:
  - Although most chairs operate at 24 V DC, **WREN** could be used on systems from 9V to 48V DC.
  - The **WREN** Dual Linear Motors Controller can be internally linked to provide increased single motor current control - heavy duty.
  - RS485 Interface for chaining controllers, such as Home Cinemas.
+
+![WREN Comparison](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/WREN%20Comparison%20Diagram.jpg)
  
 ### Dual Control
 
