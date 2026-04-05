@@ -114,7 +114,7 @@ Original WREN 12S SDK V2
 -   26-Mar - WREN C5 Prototyping and Testing
 -   21-Sep - WREN 12S V2.03 Released
 -   21-Jun - WREN 12S (V2) Released
--   21-Apr - WREN 12S (V2) Development
+-   21-Apr - WREN 12S (V2) Development and Testing
 -   20-May- Harvey's Version Released
 -   20-Mar- WREN V1 Released
 -   20-Feb - Prototyping and Testing
