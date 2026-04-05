@@ -30,6 +30,7 @@ The **WREN** SDK board:
  - Is designed to easily, and safely, retrofit (plug and play), to industry standard Electric Reclining Chairs.
  - Allows continued use of any existing push buttons, or remote hand controller, through isolated input and outputs.
  - Enables simultaneous electrical control from Smart Home Automation.
+ - Includes electronic [Hardware Safety Lockout](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki/Bench-Safety-Circuit-Testing) and Shutdown.
  - Designed for standard 5 Pin DIN connections, typically used for Electric Recliners
  - Although most chairs operate at 24 V DC, **WREN** could be used on systems from 9V to 48V DC.
  - The **WREN** Dual Linear Motors Controller can be internally linked to provide increased single motor current control - heavy duty.
@@ -111,14 +112,15 @@ Original WREN 12S SDK V2
 
 
 -   26-Mar - WREN C5 Prototyping and Testing
--   21-Sep - WREN V2.03 Released
--   21-Jun - WREN V2 Released
--   21-Apr - WREN V2 Development
+-   21-Sep - WREN 12S V2.03 Released
+-   21-Jun - WREN 12S (V2) Released
+-   21-Apr - WREN 12S (V2) Development
 -   20-May- Harvey's Version Released
 -   20-Mar- WREN V1 Released
 -   20-Feb - Prototyping and Testing
 -   19-Nov  - Preview Design Released
 -   19-Oct  - Concept Research & Development
+
 
 
 ## **Further Information**
