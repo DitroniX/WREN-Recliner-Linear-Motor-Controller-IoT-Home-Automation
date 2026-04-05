@@ -15,7 +15,7 @@ Home or Industrial Automation, IOT control, could be local, or cloud based, to s
 
 The on-board ESP32-C5 enables use of Standard Arduino Code, Platform IO, ESPHome etc.
 
-Full Electronic Control (not using Relays).
+Full Electronic Control, with Safety Hardware Lockouts (not using Relays).
 
 ![WREN Overview](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/WREN%20-%20Overview.png)
 
