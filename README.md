@@ -7,13 +7,15 @@
 
 ## Welcome to WREN
 
-**WREN**, is a compact, Linear Motor Controller which can be easily integrated into IoT Home or Industrial Automation systems, via 2.4 GHz, or 5 GHz Wi-Fi.
+**WREN**, is a compact, Linear Motor Controller Board which can be easily integrated into IoT Home or Industrial Automation systems, via 2.4 GHz, or 5 GHz Wi-Fi.
 
 The design is in operation around the World and is straight forward to install.
 
 Home or Industrial Automation, IOT control, could be local, or cloud based, to suite the users needs.
 
 The on-board ESP32-C5 enables use of Standard Arduino Code, Platform IO, ESPHome etc.
+
+![WREN Overview](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/WREN%20-%20Overview.png)
 
 ### What does WREN Control?
 
@@ -23,7 +25,7 @@ Example Linear Motor Kit can be [found here](https://github.com/DitroniX/WREN-Re
 
 ## Top Level Features
 
-The **WREN** board:
+The **WREN** SDK board:
 
  - Is designed to easily, and safely, retrofit (plug and play), to industry standard Electric Reclining Chairs.
  - Allows continued use of any existing push buttons, or remote hand controller, through isolated input and outputs.
@@ -59,7 +61,9 @@ This additional Linear Motor maybe used to;
 
 ### Other Uses
  - Can be used to control a range of Linear Motors:
-	 - Greenhouse Vent Windows 
+	 - Electric Recliner Chair
+	 - Electric Recliner Bed
+	 - Greenhouse Vent Windows
 	 - Solar Panels, Tilting and Sun Tracking
 	 - Stage Automation
 	 - Animal Flaps
@@ -69,7 +73,7 @@ This additional Linear Motor maybe used to;
 
 ## Physical Control
 
-Electric Recliners typically have buttons on the side of the chair.   In addition, some had extension cables which attach to remote control, to aid mobility and easy of use.
+Electric Recliners typically have buttons on the side of the chair.   In addition, some have extension cables which attach a remote hand control, to aid mobility and easy of use.
 
 **WREN** is designed to easily and transparently interface to either option.
 
@@ -77,7 +81,7 @@ When integrated with Home Automation with Voice Control, this could be used to c
 
 ## Power
 
-Power is taken from the [existing 5 Pin DIN connector](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki/Electric-Chair-Connector).  This typically is 24V DC.
+Power is taken from the [existing 5 Pin DIN connector](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki/Electric-Recliner-Chair-Connector).  This typically is 24V DC.
 
 **WREN** could be used on systems from 9V to 48V DC.
 
