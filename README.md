@@ -65,6 +65,7 @@ This additional Linear Motor maybe used to;
 ### Other Uses
  - Can be used to control a range of Linear Motors:
 	 - Electric Recliner Chair
+	 - Home Cinema Recliner
 	 - Electric Recliner Bed
 	 - Greenhouse Vent Windows
 	 - Solar Panels, Tilting and Sun Tracking
