@@ -73,7 +73,7 @@ This additional Linear Motor maybe used to;
 
 ## Physical Control
 
-Electric Recliners typically have buttons on the side of the chair.   In addition, some had extension cables which attach to remote control, to aid mobility and easy of use.
+Electric Recliners typically have buttons on the side of the chair.   In addition, some have extension cables which attach a remote hand control, to aid mobility and easy of use.
 
 **WREN** is designed to easily and transparently interface to either option.
 
