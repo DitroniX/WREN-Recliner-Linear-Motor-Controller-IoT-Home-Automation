@@ -1,19 +1,21 @@
 # WREN | ESP32-C5 Recliner Linear Motor Controller | IoT Home Automation
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-[![DitroniX WiKi Pages](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki)
+[![DitroniX Wiki Pages](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki)
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/README.md#updates)
 
 ## Welcome to WREN
 
-**WREN**, is a compact, Linear Motor Controller Board which can be easily integrated into IoT Home or Industrial Automation systems, via 2.4 GHz, or 5 GHz Wi-Fi.
+**WREN**, is a compact, Linear Motor Controller Board which can be easily integrated into IoT Home or Industrial Automation systems, via Dual Band 2.4 GHz, or 5 GHz Wi-Fi.
 
 The design is in operation around the World and is straight forward to install.
 
-Home or Industrial Automation, IOT control, could be local, or cloud based, to suite the users needs.
+Home or Industrial Automation, IOT control, could be local, or cloud based, to suite the user needs.
 
-The on-board ESP32-C5 enables use of Standard Arduino Code, Platform IO, ESPHome etc.
+The on-board powerful ESP32-C5 enables use of Standard Arduino Code, Platform IO, ESPHome etc.
+
+Full Electronic Control, with Safety Hardware Lockouts (not using Relays).
 
 ![WREN Overview](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/WREN%20-%20Overview.png)
 
@@ -30,6 +32,7 @@ The **WREN** SDK board:
  - Is designed to easily, and safely, retrofit (plug and play), to industry standard Electric Reclining Chairs.
  - Allows continued use of any existing push buttons, or remote hand controller, through isolated input and outputs.
  - Enables simultaneous electrical control from Smart Home Automation.
+ - Includes electronic [Hardware Safety Lockout](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki/Bench-Safety-Circuit-Testing) and Shutdown.
  - Designed for standard 5 Pin DIN connections, typically used for Electric Recliners
  - Although most chairs operate at 24 V DC, **WREN** could be used on systems from 9V to 48V DC.
  - The **WREN** Dual Linear Motors Controller can be internally linked to provide increased single motor current control - heavy duty.
@@ -39,7 +42,7 @@ The **WREN** SDK board:
  
 ### Dual Control
 
-**WREN** provides two independent Linear Motor controllers, all on one board and via one cable.
+**WREN** provides two independent Linear Motor fully electronic controllers, all on one board and via one cable.
 
 Depending on how many linear motors are fitted to the Electric Reclining Chair, the dual control option is able to facilitate both options.
 
@@ -62,6 +65,7 @@ This additional Linear Motor maybe used to;
 ### Other Uses
  - Can be used to control a range of Linear Motors:
 	 - Electric Recliner Chair
+	 - Home Cinema Recliner
 	 - Electric Recliner Bed
 	 - Greenhouse Vent Windows
 	 - Solar Panels, Tilting and Sun Tracking
@@ -102,6 +106,14 @@ The latest release of **WREN** includes:
 
 ## Origins
 
+The original **WREN**, launched back in 2020, was ESP8266 based and is in use around the World.
+
+A national furniture store was also looking at the **WREN** with a view to adding the much needed Home Automation to i's Electric Recliners and Home Cinema Chairs.  This concept faded with the company's administration, back in 2020.
+
+In 2021, the **WREN** 12S was released, which included an upgraded hardware electronic safety lockout and new board layout for fitting into the enclosure.
+
+The **WREN** project was updated to an ESP32 but this stayed in R&D, whilst awaiting the new ESP32-C5, with the much anticipated dual band 2.4 GHz and 5 GHz Wi-Fi.   In addition, RS485 integration would allow multiple **WREN**'s to directly communicate in installations like Home Cinemas, so offering a great user experience.  **Welcome to WREN C5.**
+
 Original WREN 12S SDK V2
 
 ![Display-Type-B](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller/blob/main/Datasheets%20and%20Information/WREN%2012S%20SDK%20V2%20Component%20Overview.jpg?raw=true)
@@ -110,15 +122,17 @@ Original WREN 12S SDK V2
 ## Updates
 
 
--   26-Mar - WREN C5 Prototyping and Testing
--   21-Sep - WREN V2.03 Released
--   21-Jun - WREN V2 Released
--   21-Apr - WREN V2 Development
+-   26-Apr - WREN C5 Prototyping and Testing
+-   26-Mar - WREN C5 Research & Development, Design
+-   21-Sep - WREN 12S V2.03 Released
+-   21-Jun - WREN 12S (V2) Released
+-   21-Apr - WREN 12S (V2) Development and Testing
 -   20-May- Harvey's Version Released
 -   20-Mar- WREN V1 Released
 -   20-Feb - Prototyping and Testing
 -   19-Nov  - Preview Design Released
 -   19-Oct  - Concept Research & Development
+
 
 
 ## **Further Information**
