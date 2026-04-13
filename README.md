@@ -175,3 +175,5 @@ Life is one long exciting learning curve, help others by setting the seed to kno
 
 ![DitroniX Supporting STEM](https://hackster.imgix.net/uploads/attachments/1606838/stem_ambassador_-_100_volunteer_badge_edxfxlrfbc1_bjdqharfoe1_xbqi2KUcri.png?auto=compress%2Cformat&w=540&fit=max)
 Dave Williams | G8PUO | DitroniX 1981-2024 | ditronix.net
+
+Tags, 2.4 GHz, 5 GHz, 5 Pin DIN, 8 Pin DIN, Animal Flaps, DIN Connection, Electric Chair, Electric Recliner, Electric Recliner Bed, Electric Recliner Chair, ESP32-C5, Greenhouse Vent Windows, Home Automation, Home Cinema, IoT, Linear Motor, Linear Motor Controller, Optical Tracking, Recliner, Robotics, Solar Panels, Solar Panels Tilting, Stage Automation, Sun Tracking, Thread, Tilting, Wi-Fi, WREN, Zigbee
