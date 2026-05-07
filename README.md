@@ -19,6 +19,8 @@
 
  - The original WREN design is in operation around the World and is straight forward to install.  This WREN C5 is the new design.
 
+ - Built In Industry Standard RS-485 Interface.  This can be also be used for DMX / DMX512 Lighting and Audio Automation COntrol.
+
 
 ![WREN Board](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/WREN%20-%20Board.png)
 
