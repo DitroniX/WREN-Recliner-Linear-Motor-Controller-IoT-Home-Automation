@@ -9,13 +9,14 @@
 
 **WREN**, is a compact, Linear Motor Controller Board which can be easily integrated into IoT Home or Industrial Automation systems, via Dual Band 2.4 GHz, or 5 GHz Wi-Fi.
 
-The design is in operation around the World and is straight forward to install.
+ - Home or Industrial Automation, IOT control, could be local, or cloud based, to suite the user needs.
 
-Home or Industrial Automation, IOT control, could be local, or cloud based, to suite the user needs.
+ - The on-board powerful ESP32-C5 enables use of Standard Arduino Code, Platform IO, ESPHome etc.
 
-The on-board powerful ESP32-C5 enables use of Standard Arduino Code, Platform IO, ESPHome etc.
+ - Full Electronic Control, with Safety Hardware Lockouts (not using Relays).
 
-Full Electronic Control, with Safety Hardware Lockouts (not using Relays).
+ - The original WREN design is in operation around the World and is straight forward to install.  This WREN C5 is the new design.
+
 
 ![WREN Overview](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/WREN%20-%20Overview.png)
 
@@ -23,7 +24,7 @@ Full Electronic Control, with Safety Hardware Lockouts (not using Relays).
 
 **WREN** controls Linear Motors, which are typically used to raise/lower, Electric Recliners and Beds, or open/close Window Vents on Greenhouses.
 
-Example Linear Motor Kit can be [found here](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki/Linear-Motor-Kit)
+Example Linear Motors can be [found here](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki/Linear-Motor-Kit)
 
 ## Top Level Features
 
@@ -174,3 +175,5 @@ Life is one long exciting learning curve, help others by setting the seed to kno
 
 ![DitroniX Supporting STEM](https://hackster.imgix.net/uploads/attachments/1606838/stem_ambassador_-_100_volunteer_badge_edxfxlrfbc1_bjdqharfoe1_xbqi2KUcri.png?auto=compress%2Cformat&w=540&fit=max)
 Dave Williams | G8PUO | DitroniX 1981-2024 | ditronix.net
+
+Tags, 2.4 GHz, 5 GHz, 5 Pin DIN, 8 Pin DIN, Animal Flaps, DIN Connection, Electric Chair, Electric Recliner, Electric Recliner Bed, Electric Recliner Chair, ESP32-C5, Greenhouse Vent Windows, Home Automation, Home Cinema, IoT, Linear Motor, Linear Motor Controller, Optical Tracking, Recliner, Robotics, Solar Panels, Solar Panels Tilting, Stage Automation, Sun Tracking, Thread, Tilting, Wi-Fi, WREN, Zigbee
