@@ -127,6 +127,7 @@ Original WREN 12S SDK V2
 ## Updates
 
 
+-   26-May - WREN C5 Proto board now in full test, in preperation for production end of month.
 -   26-Apr - WREN C5 Prototyping and Testing
 -   26-Mar - WREN C5 Research & Development, Design
 -   21-Sep - WREN 12S V2.03 Released
