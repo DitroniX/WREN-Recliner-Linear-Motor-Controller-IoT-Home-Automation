@@ -9,7 +9,7 @@
 
 ## Welcome to WREN
 
-**WREN**, is a compact, Linear Motor Controller Board which can be easily integrated into IoT Home or Industrial Automation systems, via Dual Band 2.4 GHz, or 5 GHz Wi-Fi.
+**WREN**, is a compact, Linear Motor Controller Board which can be easily integrated into IoT Home or Industrial Automation systems, via Dual Band 2.4 GHz, 5 GHz Wi-Fi and RS485/DMX/DMX-512 automation.
 
  - Home or Industrial Automation, IOT control, could be local, or cloud based, to suite the user needs.
 
