@@ -130,6 +130,7 @@ Original WREN 12S SDK V2
 
 ## Updates
 
+-   26-06-06 - Boards in Pre-Production.  Estimated availability end of June.
 -   26-05-30 - Slight delay in finalising the proto testing due to other projects in line.  Now expected early June.  Production End June.
 -   26-May - WREN C5 Proto board now in full test, in preperation for production end of month.
 -   26-Apr - WREN C5 Prototyping and Testing
