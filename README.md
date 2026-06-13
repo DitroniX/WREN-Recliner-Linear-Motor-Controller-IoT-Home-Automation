@@ -3,7 +3,9 @@
 
 [![DitroniX Wiki Pages](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki)
 
-[![DitroniX FAQ Pages](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/GitHub%20WiKi%20FAQ.png?raw=true)](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki/FAQ)
+[![DitroniX FAQ Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi%20FAQ.png?raw=true)](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/wiki/FAQ)
+
+[![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/discussions)
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/README.md#updates)
 
@@ -128,7 +130,8 @@ Original WREN 12S SDK V2
 
 ## Updates
 
-
+-   26-06-06 - Boards in Pre-Production.  Estimated availability end of June.
+-   26-05-30 - Slight delay in finalising the proto testing due to other projects in line.  Now expected early June.  Production End June.
 -   26-May - WREN C5 Proto board now in full test, in preperation for production end of month.
 -   26-Apr - WREN C5 Prototyping and Testing
 -   26-Mar - WREN C5 Research & Development, Design
