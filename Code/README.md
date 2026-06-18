@@ -1,5 +1,7 @@
 # WREN | ESP32-C5 Recliner Linear Motor Controller | IoT Home Automation
 
+Other pages [Home Assistant Dev](S:\Dropbox\Design\GitHub\Repository\Home-Assistant-Dev\YAML Examples\WREN C5)
+
 ------------
 
 This folder contains Example Source Code.
